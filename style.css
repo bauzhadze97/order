@@ -115,6 +115,9 @@ p{
     color: var(--Pale);
     text-decoration: none;
 }
+button a:hover {
+    background: #766CF1;
+}
 .cancel {
     margin-bottom: 40px;
 }
